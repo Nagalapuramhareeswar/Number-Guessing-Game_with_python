@@ -1,4 +1,4 @@
-# Number-Guessing-Game_in_python
+# Number-Guessing-Game_with_python
 <h1>Sample output - 1</h1>
 <p>please ensure you have only three chances to guess the number</p>
 
